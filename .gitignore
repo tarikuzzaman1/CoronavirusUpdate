@@ -16,6 +16,7 @@
 /.tarik
 /.idea/
 /.gradle/
-/API/
+/gradle/
+/APK/
 /Screenshot/
 README.md
