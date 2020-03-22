@@ -20,7 +20,9 @@ import com.github.mikephil.charting.data.PieData
 import com.github.mikephil.charting.data.PieDataSet
 import com.github.mikephil.charting.data.PieEntry
 import com.github.mikephil.charting.utils.ColorTemplate
-
+/**
+ * Created by Md.Tarikuzzaman on 22-Mar-2020 6:14 PM, ROSC-II MIS Cell, LGED.
+ */
 class GlobalFragment : Fragment() {
     private lateinit var globalViewModel: GlobalViewModel
     private lateinit var binding: FragmentGlobalBinding

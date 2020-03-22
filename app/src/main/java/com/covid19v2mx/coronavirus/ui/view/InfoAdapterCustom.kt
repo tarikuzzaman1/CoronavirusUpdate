@@ -1,6 +1,5 @@
 package com.covid19v2mx.coronavirus.ui.view
 
-
 import android.annotation.SuppressLint
 import android.view.LayoutInflater
 import android.view.View
@@ -11,7 +10,9 @@ import com.google.android.gms.maps.GoogleMap
 import com.google.android.gms.maps.model.Marker
 import com.google.gson.Gson
 
-
+/**
+ * Created by Md.Tarikuzzaman on 22-Mar-2020 6:14 PM, ROSC-II MIS Cell, LGED.
+ */
 class InfoAdapterCustom( val inflater: LayoutInflater) : GoogleMap.InfoWindowAdapter {
     private lateinit var popup: View
 

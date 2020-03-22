@@ -30,7 +30,9 @@ import com.google.android.gms.maps.model.Marker
 import com.google.android.gms.maps.model.MarkerOptions
 import com.google.gson.Gson
 
-
+/**
+ * Created by Md.Tarikuzzaman on 22-Mar-2020 6:14 PM, ROSC-II MIS Cell, LGED.
+ */
 class MapFragment : Fragment(),OnMapReadyCallback {
     companion object{
         private val TAG ="MapFragment"

@@ -9,7 +9,9 @@ import com.covid19v2mx.coronavirus.MainActivity
 import com.covid19v2mx.coronavirus.model.OverallReport
 import com.covid19v2mx.coronavirus.network.ApiOverallReport
 import java.security.AccessControlContext
-
+/**
+ * Created by Md.Tarikuzzaman on 22-Mar-2020 6:14 PM, ROSC-II MIS Cell, LGED.
+ */
 class GlobalViewModel : ViewModel() {
     companion object{
         private var TAG = "GlobalViewModel"

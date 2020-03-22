@@ -10,7 +10,9 @@ import com.android.volley.toolbox.StringRequest;
 import com.android.volley.toolbox.Volley;
 import com.covid19v2mx.coronavirus.model.OverallReport;
 import com.google.gson.Gson;
-
+/**
+ * Created by Md.Tarikuzzaman on 22-Mar-2020 6:14 PM, ROSC-II MIS Cell, LGED.
+ */
 public abstract class ApiOverallReport {
     private Context context;
     private OverallReport overallReport;

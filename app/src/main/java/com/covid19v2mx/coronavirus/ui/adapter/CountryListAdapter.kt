@@ -8,7 +8,9 @@ import androidx.recyclerview.widget.RecyclerView
 import com.covid19v2mx.coronavirus.R
 import com.covid19v2mx.coronavirus.databinding.RowCountryLsitBinding
 import com.covid19v2mx.coronavirus.model.CountrysReport
-
+/**
+ * Created by Md.Tarikuzzaman on 22-Mar-2020 6:14 PM, ROSC-II MIS Cell, LGED.
+ */
 class CountryListAdapter(val context:Context, val list:List<CountrysReport>) : RecyclerView.Adapter<CountryListHolder>() {
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): CountryListHolder {

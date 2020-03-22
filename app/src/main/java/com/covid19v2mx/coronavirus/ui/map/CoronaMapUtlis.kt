@@ -10,7 +10,9 @@ import com.google.gson.Gson
 import java.util.*
 import java.util.Locale.filter
 import kotlin.collections.ArrayList
-
+/**
+ * Created by Md.Tarikuzzaman on 22-Mar-2020 6:14 PM, ROSC-II MIS Cell, LGED.
+ */
 class CoronaMapUtlis(val context: Context) {
     companion object{
         private val TAG_ = "CoronaMapUtlis"

@@ -17,7 +17,9 @@ import com.google.gson.reflect.TypeToken;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-
+/**
+ * Created by Md.Tarikuzzaman on 22-Mar-2020 6:14 PM, ROSC-II MIS Cell, LGED.
+ */
 public abstract class ApiCountrysReport {
     private Context context;
     private List<CountrysReport> countrysReportList;
